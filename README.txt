@@ -3,7 +3,7 @@
 #    KDD 2017 Travel Time Prediction                        #
 #    InfiniteWing@CCU                                       #
 #    Result Mape = 0.1817                                   #
-#    Rank = 15 / 3574                                       #
+#    Rank = 13 / 3574                                       #
 #                                                           #
 #############################################################
 
